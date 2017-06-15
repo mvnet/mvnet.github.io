@@ -3,6 +3,8 @@ CACHE MANIFEST
 index.html
 html5.js
 style.css
+play.png
+favicon.ico
 
 NETWORK
 ajax.js
